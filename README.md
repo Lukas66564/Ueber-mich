@@ -1,4 +1,4 @@
-# Über mich
+# Ueber mich
 
 Ich interessiere mich für Self-Hosting, Linux und Open Source. In meiner Freizeit beschäftige ich mich gerne mit meinem Home-Server, probiere verschiedene Dienste aus und bastle an eigenen Projekten.
 
